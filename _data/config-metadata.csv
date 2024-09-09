@@ -1,15 +1,40 @@
-field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+field,display_name,browse_link
+featured,Featured,
+opportunity,Type of Opportunity,true
 format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+description,Description,
+title,Title,
+nameorg,Organization Name,
+source,Source,
+subformat,Format(s) of Submission,
+subject,Subject,
+frequency,Frequency,
+amount,Amount,
+amountformat,Format(s) of Funding,
+duration,Duration
+eligibility,Eligibility
+ospreview,OSP Review Requirement,
+location,Location,
+virtual,Virtual Option,
+in-person,In-Person Option,
+international,International,
+latitude,Latitude,
+longitude,Longitude,
+costfree,Cost-Free Option,
+cost,Estimate Cost of Attendance,
+oastatus,OA Status,
+oatype,Type of OA,
+agreementstatus,OA Agreement Status,
+peerreview,Peer Review Status,
+timeline,Estimate Time to Publish (in Weeks),
+acceptance,Estimate Rate of Acceptance, 
+impact,Impact Factor,
+dateproposalest,Estimate Month Proposals are Due,
+dateproposalstart,Open for Proposals Start Date,
+dateproposalend,Open for Proposals End Date,
+dateregistrationest,Estimate Month Registration Begins,
+dateregistrationstart,Open for Registration Start Date,
+dateregistrationend,Open for Registration End Date,
+dateeventest,Estimate Month of Event,
+dateeventstart,Event Start Date,
+dateeventend,Event End Date
