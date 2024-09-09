@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: /assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg
+# featured-image: /assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -18,7 +18,7 @@ home-banner-image-position: # Default is center
 # ITEM PAGE
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
-browse-buttons: true # true/false, adds previous/next arrows to item pages
+browse-buttons: false # true/false, adds previous/next arrows to item pages
 
 ##########
 # SUBJECTS PAGE
@@ -90,14 +90,14 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: # leave blank or comment out for plain bootstrap
+bootswatch: sandstone # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#191919"
-link-color: "#0d6efd"
-base-font-family: # comment out for bootstrap defaults. e.g. Roboto
-font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+link-color: "#941120"
+base-font-family: 'Open Sans', sans-serif # comment out for bootstrap defaults. e.g. Roboto
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
 # cb-gh uses Bootstrap Icons, https://icons.getbootstrap.com/
@@ -106,15 +106,18 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the values must match an icon svg name in "assets/lib/icons/"
 #
 # icons: 
-#   icon-image: image
-#   icon-audio: soundwave
-#   icon-video: film
-#   icon-pdf: file-pdf
-#   icon-record: file-text
-#   icon-compound-object: collection
-#   icon-multiple: postcard
-#   icon-default: file-earmark # fall back icon
-#   icon-back-to-top: arrow-up-square # scroll to top icon
-#   arrow-left: arrow-left
-#   arrow-right: arrow-right
-#   arrow-down: arrow-down
+   icon-image: image
+   icon-audio: soundwave
+   icon-video: film
+   icon-pdf: file-pdf
+   icon-record: file-richtext-fill
+   icon-compound-object: collection
+   icon-multiple: postcard
+   icon-default: file-earmark # fall back icon
+   icon-back-to-top: arrow-up-square # scroll to top icon
+   arrow-left: arrow-left
+   arrow-right: arrow-right
+   arrow-down: arrow-down
+   icon-grant: piggy-bank
+   icon-conference: people
+   icon-journal: journals
