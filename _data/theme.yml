@@ -93,7 +93,7 @@ navbar-background: bg-dark
 bootswatch: sandstone # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
-base-font-size: 1.2em
+base-font-size: 1em
 text-color: "#191919"
 link-color: "#941120"
 base-font-family:  Open Sans, sans-serif # comment out for bootstrap defaults. e.g. Roboto
