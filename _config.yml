@@ -43,10 +43,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ93dRRVM5XRhowbK4
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Carnegie Mellon University Libraries"
+organization-link: https://www.library.cmu.edu/
+organization-logo-banner: https://taliaperry.github.io/oi-library/assets/img/UL_CMU_Logo_Stacked_DarkGrey.png
+organization-logo-nav: https://taliaperry.github.io/oi-library/assets/img/UL_CMU_Logo_Horiz_LightGray.png
 
 ##########
 # ROBOTS EXCLUDE
