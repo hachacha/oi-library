@@ -16,12 +16,14 @@
 {%- endcomment -%}
 {% assign functionName = "" %}
 <div class="card mb-3{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
+    <!-- trying to get rid of image...
 {% if include.objectid %}
     {% if include.objectid contains '/' %}<img class="card-img-top" src="{{ include.objectid | relative_url }}" alt="{{ include.alt | default: include.title }}">{%- else -%}
     {% capture functionName %}card_feature_{{ include.objectid | slugify | replace: "-","_" }}{% endcapture %}
     <div id="{{ functionName }}"></div>
     {% endif %}
 {% endif %}
+    -->
     {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{%- endif -%}
     <div class="card-body">
         {% if include.title %}<h5 class="card-title">{{ include.title }}</h5>{%- endif -%}
