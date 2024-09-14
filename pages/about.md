@@ -8,6 +8,11 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+## About the Opportunity Incubator
+
+Lorem ipsum odor amet, consectetuer adipiscing elit. Aptent cursus consequat aptent sem ad dui erat lacus natoque. Cursus imperdiet porta massa porttitor venenatis semper. Aliquet placerat etiam tincidunt ornare et per. Facilisis rhoncus primis curae curae ante justo aptent etiam. Dis id nec pharetra primis non natoque. Blandit tempor mollis integer aenean rhoncus enim lorem? Elit taciti augue scelerisque, turpis arcu leo pretium faucibus? Vulputate ac odio mus ornare proin inceptos commodo.
+
+<!--
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
 ## About CollectionBuilder-Sheets
@@ -45,4 +50,4 @@ Once you have items added you can test your metadata by clicking the "Change the
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
+Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ). -->
