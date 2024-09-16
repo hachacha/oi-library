@@ -1,3 +1,10 @@
 field,display_name,btn,hidden,sort_name
-opportunity,Opportunity,,,
-location,,true
+opportunity,Opportunity,true,,
+description,,,true,
+issn,,,,true,
+subformat,Format(s) of Submission,,,,
+subject,Subject,true,,
+location,Location,,,,
+oastatus,OA Status,true,,
+dateproposalend,Open for Proposals End Date,,,Open for Proposals End Date
+dateeventend,Event End Date,,,Event End Date
