@@ -48,7 +48,7 @@ function makeCard(obj) {
     card += '<div class="card-body text-center"> <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
     // thumb for non-photo items
     if(thumbSrc){
-      card += '<p><a href="' + itemHref + '"><img class="lazyload w-50" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
+      card += '<p><a href="' + itemHref + '"><img class="lazyload w-25" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
     }
     // other fields
     card += '<p class="card-text">';
