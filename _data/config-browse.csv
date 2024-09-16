@@ -1,8 +1,8 @@
 field,display_name,btn,hidden,sort_name
 opportunity,Opportunity,true,,
 description,,,true,
-issn,,,,true,
-subformat,Format(s) of Submission,,,,
+issn,,,true,
+subformat,Format(s) of Submission,true,,
 subject,Subject,true,,
 location,Location,,,,
 oastatus,OA Status,true,,
