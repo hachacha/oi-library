@@ -145,7 +145,7 @@ function displayItem(record, prev_id, next_id, compound_object) {
             var partOrder = i + 1;
 
             /* account for items without title */
-            var itemTitle = typeof compoundTitle !== 'undefined' ? `<div class="small text-dark mb-2">${compoundTitle.split(" ").splice(0,4).join(" ")}...</div>` : '';
+            var itemTitle = typeof compoundTitle !== ' ' ? `<div class="small text-dark mb-2">${compoundTitle.split(" ").splice(0,4).join(" ")}...</div>` : '';
 
             /* get thumbnail or icon for compound object cards based on item format */
             var compoundIcon, compoundThumb;
