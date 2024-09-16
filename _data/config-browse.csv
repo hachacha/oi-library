@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-opportunity,Opportunity,true,,
+opportunity,,true,,
 description,,,true,
 issn,,,true,
 subformat,Format(s) of Submission,true,,
