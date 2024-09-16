@@ -22,3 +22,16 @@ a.text-light  {
 .btn-link {
     color: #941120 !important;
 }
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: white;
+    background-clip: border-box;
+    border-radius: 0px;
+    padding: 10px;
+    border-color: white;
+    border-top: 1px solid #BCB49E !important; }
