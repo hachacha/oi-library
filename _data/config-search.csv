@@ -1,15 +1,5 @@
 field,index,display
 title,true,true
 opportunity,true,true
-description,true,
-issn,true,
-subformat,true,true
+description,true,true
 subject,true,true
-frequency,true,
-amount,true
-amountformat,true
-duration,true
-location,true,
-cost,true,
-oastatus,true,
-peerreview,true,
