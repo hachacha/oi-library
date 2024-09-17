@@ -4,15 +4,15 @@ Browse,/browse.html
 Explore,,
 Subjects,/subjects.html,Explore
 Formats,/formats.html,Explore
-Grants,,
-Featured,/featured-grants.html,Grants
-Resources,/resources-publications.html,Grants
-View List,/browse.html#Grant,Grants
-Conferences,,
-Featured,/featured-conferences.html,Conferences
-View Map,/map.html,Conferences
-View List,/browse.html#Conference,Conferences
-Publications,,
-Featured,/featured-publications.html,Publications
-View List,/browse.html#Publication,Publications
+GRANTS,,
+Featured,/featured-grants.html,GRANTS
+Resources,/resources-publications.html,GRANTS
+View List,/browse.html#Grant,GRANTS
+CONFERENCES,,
+Featured,/featured-conferences.html,CONFERENCES
+View Map,/map.html,CONFERENCES
+View List,/browse.html#Conference,CONFERENCES
+PUBLICATIONS,,
+Featured,/featured-publications.html,PUBLICATIONS
+View List,/browse.html#Publication,PUBLICATIONS
 Data,/data.html
