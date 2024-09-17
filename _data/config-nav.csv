@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 GRANTS,,
 Featured,/featured-grants.html,GRANTS
-Resources,/resources-publications.html,GRANTS
+Resources,/resources-grants.html,GRANTS
 View List,/browse.html#Grant,GRANTS
 CONFERENCES,,
 Featured,/featured-conferences.html,CONFERENCES
