@@ -12,7 +12,7 @@ PUBLICATIONS,,
 Featured,/featured-publications.html,PUBLICATIONS
 View List,/browse.html#Publication,PUBLICATIONS
 Explore,,
-Subjects,/subjects.html,Explore
-Formats,/subformat.html,Explore
-Browse All,/browse.html
+Explore by Subject,/subjects.html,Explore
+Explore by Format,/subformat.html,Explore
+Browse All,/browse.html,Explore
 Data,/data.html
