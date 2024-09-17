@@ -1,9 +1,5 @@
 display_name,stub,dropdown_parent
 Home,/
-Browse,/browse.html
-Explore,,
-Subjects,/subjects.html,Explore
-Formats,/formats.html,Explore
 GRANTS,,
 Featured,/featured-grants.html,GRANTS
 Resources,/resources-publications.html,GRANTS
@@ -15,4 +11,8 @@ View List,/browse.html#Conference,CONFERENCES
 PUBLICATIONS,,
 Featured,/featured-publications.html,PUBLICATIONS
 View List,/browse.html#Publication,PUBLICATIONS
+Browse All,/browse.html
+Explore,,
+Subjects,/subjects.html,Explore
+Formats,/formats.html,Explore
 Data,/data.html
