@@ -1,9 +1,18 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
+Explore,,
 Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Timeline,/timeline.html
+Formats,/formats.html
+Grants,,
+Featured,/featured-grants.html
+Resources,/resources-publications.html
+View List,/browse.html#Grant
+Conferences,,
+Featured,/featured-conferences.html
+View Map,/map.html,Conferences
+View List,/browse.html#Conference
+Publications,,
+Featured,/featured-publications.html
+View List,/browse.html#Publication
 Data,/data.html
-About,/about.html
