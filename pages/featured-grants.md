@@ -1,7 +1,7 @@
 ---
 title: Featured Grants
 layout: about
-permalink: /featured-grantss.html
+permalink: /featured-grants.html
 ---
 
 ## Featured Grants
