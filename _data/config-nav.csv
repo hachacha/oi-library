@@ -2,17 +2,17 @@ display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
 Explore,,
-Subjects,/subjects.html
-Formats,/formats.html
+Subjects,/subjects.html,Explore
+Formats,/formats.html,Explore
 Grants,,
-Featured,/featured-grants.html
-Resources,/resources-publications.html
-View List,/browse.html#Grant
+Featured,/featured-grants.html,Grants
+Resources,/resources-publications.html,Grants
+View List,/browse.html#Grant,Grants
 Conferences,,
 Featured,/featured-conferences.html
 View Map,/map.html,Conferences
-View List,/browse.html#Conference
+View List,/browse.html#Conference,Conferences
 Publications,,
-Featured,/featured-publications.html
-View List,/browse.html#Publication
+Featured,/featured-publications.html,Publications
+View List,/browse.html#Publication,Publications
 Data,/data.html
